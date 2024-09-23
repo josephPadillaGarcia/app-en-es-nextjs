@@ -1,0 +1,11 @@
+{
+    "Home": {
+        "title": "Hola Mundo",
+        "about": "Nosotros"
+    },
+
+    "Nosotros": {
+        "title": "Página Nosotros",
+        "back": "Atras"
+    }
+}
